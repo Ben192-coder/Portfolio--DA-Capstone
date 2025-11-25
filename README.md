@@ -8,4 +8,4 @@ You can view the project files here:
 
 - Project repository: https://github.com/Ben192-coder/fitbit
 - HTML report: 
-https://github.com/Ben192-coder/fitbit/blob/main/Ben-Halperin-Fitbit-Capstone.html
+  https://ben192-coder.github.io/fitbit/Ben-Halperin-Fitbit-Capstone.html
