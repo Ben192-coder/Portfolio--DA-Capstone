@@ -34,7 +34,7 @@ Analyzed Fitbit smart device data (used as a proxy for Bellabeat) to uncover usa
 Designed a BI solution for Google Fiber to analyze customer behavior, network performance, technician operations, technician operations, and support activity.
 
 **Project repository:**
-👉 <a href="https://github.com/ben192-coder/google-fiber-bi-capstone">View Google Fiber Project on GitHub</a>
+👉 <a href="https://github.com/Ben192-coder/google-fiber--bi-capstone">View Google Fiber Project on GitHub</a>
 
 **Key artifacts (inside the BI repo):**
 *(Note: These files are located inside the repository linked above)*
